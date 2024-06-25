@@ -21,7 +21,7 @@ langchain==0.0.339
 langchainplus-sdk==0.0.20
 langsmith==0.0.66
 marshmallow==3.20.1
-multidict==6.0.4
+multidict==6.0.5
 mypy-extensions==1.0.0
 numexpr==2.8.7
 numpy==1.26.2
