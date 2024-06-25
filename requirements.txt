@@ -24,7 +24,7 @@ marshmallow==3.20.1
 multidict==6.0.4
 mypy-extensions==1.0.0
 numexpr==2.8.7
-numpy==1.26.2
+numpy==2.0.0
 openai==1.3.3
 openapi-schema-pydantic==1.2.4
 packaging==23.2
