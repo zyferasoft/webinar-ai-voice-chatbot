@@ -16,7 +16,7 @@ httpx==0.27.0
 idna==3.7
 jmespath==1.0.1
 jsonpatch==1.33
-jsonpointer==2.4
+jsonpointer==3.0.0
 langchain==0.2.3
 langchainplus-sdk==0.0.20
 langsmith==0.0.66
