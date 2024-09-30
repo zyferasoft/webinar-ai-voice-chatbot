@@ -41,7 +41,7 @@ six==1.16.0
 sniffio==1.3.0
 SpeechRecognition==3.10.0
 SQLAlchemy==2.0.23
-tenacity==8.2.3
+tenacity==9.0.0
 tqdm==4.66.4
 typing-inspect==0.9.0
 typing_extensions==4.8.0
